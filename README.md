@@ -14,7 +14,7 @@ Here is an example of how to use nrcjs to connect to an NRC device and control t
 ```js
 const NrcDevice = require('nrcjs');
 
-const ip = '192.168.1.201';
+const ip = '192.168.1.200';
 const port = 23;
 const username = "admin";
 const password = "admin";
