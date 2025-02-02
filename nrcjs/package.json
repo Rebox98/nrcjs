@@ -1,6 +1,6 @@
 {
   "name": "nrcjs",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "nrcjs is a js package for working with NRC devices",
   "main": "index.js",
   "scripts": {
