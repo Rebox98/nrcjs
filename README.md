@@ -12,7 +12,7 @@ npm i nrcjs
 ## 🪧 Usage
 Here is an example of how to use nrcjs to connect to an NRC device and control the relays:
 ```js
-const NrcDevice = require('./nrcjs');
+const NrcDevice = require('nrcjs');
 
 const ip = '192.168.1.201';
 const port = 23;

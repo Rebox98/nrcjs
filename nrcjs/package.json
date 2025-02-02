@@ -1,8 +1,8 @@
 {
   "name": "nrcjs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "nrcjs is a js package for working with NRC devices",
-  "main": "nrcjs/index.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
